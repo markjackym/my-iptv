@@ -2,3 +2,15 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+北京卫视4K,https://www.shqsy.com/zgst.php?id=btv4k
+东方卫视4K,https://www.shqsy.com/zgst.php?id=sh4k
+江苏卫视4K,https://www.shqsy.com/zgst.php?id=js4k
+浙江卫视4K,https://www.shqsy.com/zgst.php?id=zj4k
+山东卫视4K,https://www.shqsy.com/zgst.php?id=sd4k
+湖南卫视4K,https://www.shqsy.com/zgst.php?id=hn4k
+广东卫视4K,https://www.shqsy.com/zgst.php?id=gd4k
+四川卫视4K,https://www.shqsy.com/zgst.php?id=sc4k
+深圳卫视4K,https://www.shqsy.com/zgst.php?id=sz4k
+
+
+
